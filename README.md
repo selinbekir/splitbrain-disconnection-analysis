@@ -7,7 +7,7 @@ Analysis code for the paper **"No Disconnection Syndrome after Near-Complete Cal
 ## Open in Google Colab
 Click the badge below to open the notebook in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/selinbekir/splitbrain-disconnection-analysis/blob/main/disconnection_analyses.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/selinbekir/splitbrain-disconnection-analysis/blob/main/Disconnection_Analyses.ipynb)
 
 ---
 
